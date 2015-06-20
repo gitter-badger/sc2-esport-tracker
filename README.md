@@ -1,5 +1,7 @@
 # SC2 e-sport tracker
 
+[![Join the chat at https://gitter.im/Ternoc/sc2-esport-tracker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Ternoc/sc2-esport-tracker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Starcraft II e-sport tracket let you find the best VOD for matches.
 
 # Source code
